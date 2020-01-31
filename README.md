@@ -1,2 +1,2 @@
-# Multi-agent-System-
+# Multi-agent-System
 Ressource allocation using jade framework.
